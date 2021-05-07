@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thomasgranath
 - 👀 I’m interested in coding and guitars.
 - 🌱 I’m currently learning to grow chiles.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me thomasgranath@icloud.com
 
 <!---
